@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>马证皓的博客</title>
+  
+  <subtitle>我与我周旋久，宁作我</subtitle>
+  <link href="https://mazhenghao02.com/atom.xml" rel="self"/>
+  
+  <link href="https://mazhenghao02.com/"/>
+  <updated>2025-06-23T08:09:52.753Z</updated>
+  <id>https://mazhenghao02.com/</id>
+  
+  <author>
+    <name>马证皓</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生成网络 | Flow Matching</title>
+    <link href="https://mazhenghao02.com/2025/06/24/flow-matching/"/>
+    <id>https://mazhenghao02.com/2025/06/24/flow-matching/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:09:52.753Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成网络 | Stable Diffusion</title>
+    <link href="https://mazhenghao02.com/2025/06/24/stable-diffusion/"/>
+    <id>https://mazhenghao02.com/2025/06/24/stable-diffusion/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:10:26.820Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微调方式 | BLIP</title>
+    <link href="https://mazhenghao02.com/2025/06/24/blip/"/>
+    <id>https://mazhenghao02.com/2025/06/24/blip/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:36:18.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="微调方式" scheme="https://mazhenghao02.com/categories/%E5%BE%AE%E8%B0%83%E6%96%B9%E5%BC%8F/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="微调" scheme="https://mazhenghao02.com/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片分类 | CLIP</title>
+    <link href="https://mazhenghao02.com/2025/06/24/clip/"/>
+    <id>https://mazhenghao02.com/2025/06/24/clip/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:25:21.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="图片分类" scheme="https://mazhenghao02.com/categories/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/"/>
+    
+    <category term="多模态" scheme="https://mazhenghao02.com/categories/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片分类 | ChineseCLIP</title>
+    <link href="https://mazhenghao02.com/2025/06/24/cn-clip/"/>
+    <id>https://mazhenghao02.com/2025/06/24/cn-clip/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:25:57.914Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="图片分类" scheme="https://mazhenghao02.com/categories/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/"/>
+    
+    <category term="多模态" scheme="https://mazhenghao02.com/categories/%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多模态大模型 | Cogvlm.md</title>
+    <link href="https://mazhenghao02.com/2025/06/24/cogvlm/"/>
+    <id>https://mazhenghao02.com/2025/06/24/cogvlm/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:29:26.467Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微调方式 | ControlNet</title>
+    <link href="https://mazhenghao02.com/2025/06/24/controlnet/"/>
+    <id>https://mazhenghao02.com/2025/06/24/controlnet/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:37:05.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="微调方式" scheme="https://mazhenghao02.com/categories/%E5%BE%AE%E8%B0%83%E6%96%B9%E5%BC%8F/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="微调" scheme="https://mazhenghao02.com/tags/%E5%BE%AE%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成网络 | DDIM</title>
+    <link href="https://mazhenghao02.com/2025/06/24/ddim/"/>
+    <id>https://mazhenghao02.com/2025/06/24/ddim/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:09:02.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成网络 | DDPM</title>
+    <link href="https://mazhenghao02.com/2025/06/24/ddpm/"/>
+    <id>https://mazhenghao02.com/2025/06/24/ddpm/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:20:19.112Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>语义分割 | DeeplabV3+</title>
+    <link href="https://mazhenghao02.com/2025/06/24/deeplabv3/"/>
+    <id>https://mazhenghao02.com/2025/06/24/deeplabv3/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:03:23.236Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="语义分割" scheme="https://mazhenghao02.com/categories/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型 | Deepseek-R1</title>
+    <link href="https://mazhenghao02.com/2025/06/24/deepseek-r1/"/>
+    <id>https://mazhenghao02.com/2025/06/24/deepseek-r1/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:18:10.552Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型 | Deepseek-V3</title>
+    <link href="https://mazhenghao02.com/2025/06/24/deepseek-v3/"/>
+    <id>https://mazhenghao02.com/2025/06/24/deepseek-v3/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:20:13.162Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多模态大模型 | Deepseek-VL</title>
+    <link href="https://mazhenghao02.com/2025/06/24/deepseek-vl/"/>
+    <id>https://mazhenghao02.com/2025/06/24/deepseek-vl/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:20:10.446Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="多模态大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    <category term="多模态" scheme="https://mazhenghao02.com/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>目标检测 | DETR</title>
+    <link href="https://mazhenghao02.com/2025/06/24/detr/"/>
+    <id>https://mazhenghao02.com/2025/06/24/detr/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:07:31.471Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="目标检测" scheme="https://mazhenghao02.com/categories/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成网络 | GAN</title>
+    <link href="https://mazhenghao02.com/2025/06/24/gan/"/>
+    <id>https://mazhenghao02.com/2025/06/24/gan/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T07:11:23.832Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型 | GPT-4o</title>
+    <link href="https://mazhenghao02.com/2025/06/24/gpt-4o/"/>
+    <id>https://mazhenghao02.com/2025/06/24/gpt-4o/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:26:30.698Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>强化学习 | GRPO</title>
+    <link href="https://mazhenghao02.com/2025/06/24/grpo/"/>
+    <id>https://mazhenghao02.com/2025/06/24/grpo/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:30:45.588Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="强化学习" scheme="https://mazhenghao02.com/categories/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多模态大模型 | internVL</title>
+    <link href="https://mazhenghao02.com/2025/06/24/internvl/"/>
+    <id>https://mazhenghao02.com/2025/06/24/internvl/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:28:33.524Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生成网络 | LDM</title>
+    <link href="https://mazhenghao02.com/2025/06/24/ldm/"/>
+    <id>https://mazhenghao02.com/2025/06/24/ldm/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:09:20.345Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg) --&gt;
+
+&lt;h2 id=&quot;数学原理&quot;&gt;&lt;a href=&quot;#数学原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生成网络" scheme="https://mazhenghao02.com/categories/%E7%94%9F%E6%88%90%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大模型 | LLAMA vision</title>
+    <link href="https://mazhenghao02.com/2025/06/24/llama-vision/"/>
+    <id>https://mazhenghao02.com/2025/06/24/llama-vision/</id>
+    <published>2025-06-24T07:27:31.000Z</published>
+    <updated>2025-06-23T08:24:15.169Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不积跬步，无以至千里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 
+![](/medias/contact.jpg)</summary>
+        
+      
+    
+    
+    
+    <category term="大模型" scheme="https://mazhenghao02.com/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+    
+    <category term="博客" scheme="https://mazhenghao02.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
